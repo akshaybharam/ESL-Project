@@ -1,0 +1,134 @@
+/* --------------For Header -----------------*/
+.navbar-default {
+	background-color: black;
+	width: 100%;
+}
+.navbar-nav {
+	margin-right: 0px;
+}
+
+.navbar ul li:hover{
+	background-color:green;
+}
+
+
+/*#content{
+	height:110vh;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/books.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	position:relative;
+	margin-top:-50px;
+}
+
+
+#content1{
+	height:110vh;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/ustad.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	position:relative;
+	margin-top:-50px;
+}*/
+/*---------------For Home page--------------------*/
+#info {
+	background-color: #336633;
+}
+
+/* ----------------For Aboutus Page -------------------*/
+#abtuscontainer {
+	padding-top: 90px;
+	padding-bottom: 90px;
+	background-color: #CCCCFF;
+}
+
+.links a:hover{
+	color: red;
+	text-decoration: none;
+}
+
+
+/* ---------- For Log In----------- */
+
+.login_form {
+	width: 400px;
+	margin-left: 40px;
+}
+
+.modal-footer {
+	text-align: center;
+
+}
+
+/* ----------Course---------- */
+.container {
+	padding-top: 120px;
+	padding-bottom: 100px;
+}
+
+.thumbnail img:hover {
+	transform: scale(1.1);
+}
+
+.thumbnail img {
+	transition: all 0.3s ease 0s;
+	width: 100%;
+}
+
+.thumbnail {
+	overflow: hidden;
+}
+
+#coursecontainer {
+	background-color: #009966;
+}
+
+h2,p {
+	text-align: center;
+}
+
+
+
+
+/*----------------- For Signup Page-----------------*/
+
+.panel {
+	text-align: center;
+	width: 50%;
+	margin-left: 300px;
+	border: 1px solid grey;
+}
+
+.panel-body {
+	padding-top: 15px;
+}
+
+.profile-img {
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 10px;
+	display: block;
+	border-radius: 20%;
+}
+
+
+
+/* ---------------For Contact Page-----------------*/
+
+#contactcontainer {
+	padding-top: 80px;
+	padding-bottom: 150px;
+	background-color: #FF9966;
+}
+
+
+
+
+/*-------For Course Info---------*/
+#courseinfo {
+	background-color: #ff8080;
+}
